@@ -6,11 +6,16 @@ Download from Printables here: [`Download Link`](https://www.printables.com/@Evo
 
 A fidget spinner with a satisfying divot shape around each weight.
 
-This model is an updated version of one of my first CAD models and 3D prints.
+Three files are available to download:
+
+- Fidget Spinner
+- Fidget Spinner Handles
+- Fidget Spinner without holes
 
 ### Print Settings
 
-Print the fidget spinner flat on the print bed.
+- Print without supports.
+- The handle STL file has a helper disk in between the M and F parts to improve bed adhesion.
 
 ### Bill of Materials
 
@@ -19,19 +24,20 @@ Print the fidget spinner flat on the print bed.
 
 ### Assembly
 
-- Coat the outside circumference of each bearing with glue, and slide each bearing into one of the four holes on the main body.
+*Note: Assembly is optional. Parts may join without glue; or only without glue depending on the dimensional accuracy of the print.*
 
-### Notes
+- **Assembling the Main Body**
+	- Coat the outside circumference of each bearing with glue, and slide each bearing into one of the four holes on the main body.
 
-- The fidget spinner handles are a work in progress, and may have fitment issues.
+- **Assembling the Handle**
+	- Insert the F side handle into the center bearing, and apply glue into the center hole.
+	- Insert the M side handle into the center bearing, using the hexagonal peg to orient the part.
+	- Please refrain from spinning the toy until the glue is fully dry.
 
 ### Optional
 
-- You may be able to replace the bearings used as weights with something different, so I've included a 3MF file with customizable negative volume cylinders.
-
-### A note from the designer
-
-I printed mine with translucent TPU. The TPU helped with the fitment, and I liked the atomic blue look on the fidget spinner. I hope this toy brings you joy, and if you've made your own I'd like to see it.
+- You may be able to replace the bearings used as weights with something different, so I've included a blank fidget spinner 3MF file with negative volume cylinders located in the correct positions.
+	- You can also use this file to fine-tune the bearing hole diameters.
 
 ## Preview
 
