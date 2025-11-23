@@ -11,11 +11,10 @@ A fidget spinner with a satisfying divot shape around each weight.
 
 ## Summary
 
-Three files are available to download:
-
-- Fidget Spinner body
-- Fidget Spinner handle
-- Blank Fidget Spinner and corresponding negative volume
+- **Three files are available to download:**
+	- Fidget Spinner body
+	- Fidget Spinner handle
+	- Blank Fidget Spinner and corresponding negative volume
 
 # Print Settings
 
@@ -48,7 +47,7 @@ Three files are available to download:
 		1. Load `body-blank.stl`
 		2. Add `negative-volume.stl` as a negative volume, to the object.
 		3. Split `negative-volume.stl` into parts.
-		4. Adjust `Size [World]:` located under `Part manipulation` for each part to the desired diameter. If you do not see this option, ensure the PrusaSlicer mode is either Normal or Expert.
+		4. Adjust `Size [World]:` located under `Part manipulation` for each part to the desired diameter. If you do not see this option, ensure that PrusaSlicer is in either [Normal or Expert](https://help.prusa3d.com/article/simple-advanced-expert-modes_1765) mode.
 
 # A Note from the Designer
 
