@@ -9,7 +9,7 @@ A fidget spinner with a satisfying divot shape around each weight.
 
 * * *
 
-## Summary
+# Summary
 
 - **Three files are available to download:**
 	- Fidget Spinner body
