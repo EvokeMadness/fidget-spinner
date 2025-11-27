@@ -55,6 +55,6 @@ Hi! Thanks for checking out my model! This fidget spinner is an improvement on o
 
 * * *
 
-# Preview
+# Previews
 
 ![](assets/preview.png)
